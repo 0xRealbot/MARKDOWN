@@ -113,10 +113,6 @@ If this repository helps you learn Markdown, consider giving it a ⭐ Star on Gi
 
 Your support motivates further improvements!
 
-## 📄 License
-
-This project is available under the MIT License. If you choose to use that license, add a `LICENSE` file containing the official MIT License text.
-
 
 ---
 
