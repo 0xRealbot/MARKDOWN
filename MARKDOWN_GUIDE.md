@@ -868,7 +868,7 @@ Second line.
 
 ---
 
-# 🔹 18. GITHUB F L A V O R E D MARKDOWN (GFM)
+# 🔹 18. GITHUB FLAVORED MARKDOWN (GFM)
 
 GitHub Flavored Markdown, also called GFM, is an extension of standard Markdown.
 
