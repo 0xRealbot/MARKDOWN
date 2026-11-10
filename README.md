@@ -60,35 +60,7 @@ Complete-Markdown-Guide/
 | `README.md` | Repository introduction and overview |
 | `MARKDOWN_GUIDE.md` | Complete Markdown tutorial with examples |
 
-## 🚀 Getting Started
 
-You can explore this guide in two ways.
-
-### 1. Read Online
-
-Open the complete tutorial:
-
-**[📘 Read the Complete Markdown Guide](MARKDOWN_GUIDE.md)**
-
-### 2. Download the Repository
-
-Clone this repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/Complete-Markdown-Guide.git
-```
-
-Navigate into the folder:
-
-```bash
-cd Complete-Markdown-Guide
-```
-
-Open it in Visual Studio Code:
-
-```bash
-code .
-```
 
 ## 💻 Requirements
 
