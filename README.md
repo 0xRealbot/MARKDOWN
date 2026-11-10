@@ -117,11 +117,6 @@ Your support motivates further improvements!
 
 This project is available under the MIT License. If you choose to use that license, add a `LICENSE` file containing the official MIT License text.
 
-## 👨‍💻 Author
-
-**Your Name**
-
-GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
 
 ---
 
